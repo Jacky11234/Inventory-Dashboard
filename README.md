@@ -1,3 +1,6 @@
+
+[Power BI Dashoboard](https://app.powerbi.com/view?r=eyJrIjoiMTA0YWQ2ZDgtNTllYy00YjY3LTgzZGYtMTI3NjMxMTBlMjNiIiwidCI6ImQzM2I1MjRlLTAyMDEtNDY5Ni1hNjIzLWE5NTEzMjIyNmM4ZiJ9)
+
 # Power BI Inventory Dashboard  
 
 **Inventory Management Analysis**  
